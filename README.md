@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/logo.svg" width="400" height="400" alt="blueprint illustration">
+    <img src="assets/logo.png" width="400" height="400" alt="Slack Icon and Deno Icon merged">
     <h1>Deno Slack SDK</h1>
     <p>
         <b>Deno ports for <a href="https://github.com/slackapi/node-slack-sdk">node-slack-sdk</a> and <a href="https://github.com/slackapi/bolt">bolt</a></b>
